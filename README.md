@@ -1,3 +1,4 @@
 # no_understand
-I don’t know how to use github
+I don’t know how to use github /n
+
 我也不知道这是干啥的
